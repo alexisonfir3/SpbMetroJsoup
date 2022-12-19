@@ -1,0 +1,310 @@
+{
+  "info": [
+    {
+      "stationName": "Девяткино",
+      "openingDate": "1978-12-29",
+      "also-link": "https://en.wikipedia.org/wiki/Devyatkino_(Saint_Petersburg_Metro)"
+    },
+    {
+      "stationName": "Гражданский проспект",
+      "openingDate": "1978-12-29"
+    },
+    {
+      "stationName": "Академическая",
+      "openingDate": "1975-12-31"
+    },
+    {
+      "stationName": "Политехническая",
+      "openingDate": "1975-12-31",
+      "also-link": "https://en.wikipedia.org/wiki/Peter_the_Great_St._Petersburg_Polytechnic_University"
+    },
+    {
+      "stationName": "Площадь Мужества",
+      "openingDate": "1975-12-31"
+    },
+    {
+      "stationName": "Лесная",
+      "openingDate": "1975-04-22"
+    },
+    {
+      "stationName": "Выборгская",
+      "openingDate": "1975-04-22"
+    },
+    {
+      "stationName": "Площадь Ленина",
+      "openingDate": "1958-06-01"
+    },
+    {
+      "stationName": "Чернышевская",
+      "openingDate": "1958-09-01"
+    },
+    {
+      "stationName": "Площадь Восстания",
+      "openingDate": "1955-11-15",
+      "also-link": "https://en.wikipedia.org/wiki/February_Revolution"
+    },
+    {
+      "stationName": "Владимирская",
+      "openingDate": "1955-11-15"
+    },
+    {
+      "stationName": "Пушкинская",
+      "openingDate": "1956-04-30"
+    },
+    {
+      "stationName": "Технологический институт",
+      "openingDate": "1955-11-15"
+    },
+    {
+      "stationName": "Балтийская",
+      "openingDate": "1955-11-15"
+    },
+    {
+      "stationName": "Нарвская",
+      "openingDate": "1955-11-15"
+    },
+    {
+      "stationName": "Кировский завод",
+      "openingDate": "1955-11-15",
+      "also-link": "https://en.wikipedia.org/wiki/Kirov_Plant"
+    },
+    {
+      "stationName": "Автово",
+      "openingDate": "1955-11-15"
+    },
+    {
+      "stationName": "Ленинский проспект",
+      "openingDate": "1977-09-29"
+    },
+    {
+      "stationName": "Проспект Ветеранов",
+      "openingDate": "1977-09-29"
+    },
+    {
+      "stationName": "Парнас",
+      "openingDate": "2006-12-22"
+    },
+    {
+      "stationName": "Проспект Просвещения",
+      "openingDate": "1988-04-19"
+    },
+    {
+      "stationName": "Озерки",
+      "openingDate": "1988-04-19"
+    },
+    {
+      "stationName": "Проспект Просвещения",
+      "openingDate": "1988-04-19"
+    },
+    {
+      "stationName": "Удельная",
+      "openingDate": "1982-11-04"
+    },
+    {
+      "stationName": "Пионерская",
+      "openingDate": "1982-11-04"
+    },
+    {
+      "stationName": "Чёрная речка",
+      "openingDate": "1982-11-04"
+    },
+    {
+      "stationName": "Петроградская",
+      "openingDate": "1963-07-01"
+    },
+    {
+      "stationName": "Горьковская",
+      "openingDate": "1963-07-01"
+    },
+    {
+      "stationName": "Невский проспект",
+      "openingDate": "1963-07-01"
+    },
+    {
+      "stationName": "Сенная площадь",
+      "openingDate": "1963-07-01"
+    },
+    {
+      "stationName": "Технологический институт",
+      "openingDate": "1961-04-29"
+    },
+    {
+      "stationName": "Фрунзенская",
+      "openingDate": "1961-04-29"
+    },
+    {
+      "stationName": "Московские ворота",
+      "openingDate": "1961-04-29"
+    },
+    {
+      "stationName": "Электросила",
+      "openingDate": "1961-04-29",
+      "also-link": "https://en.wikipedia.org/wiki/Power_Machines"
+    },
+    {
+      "stationName": "Парк Победы",
+      "openingDate": "1961-04-29"
+    },
+    {
+      "stationName": "Московская",
+      "openingDate": "1969-12-25"
+    },
+    {
+      "stationName": "Звёздная",
+      "openingDate": "1972-12-25"
+    },
+    {
+      "stationName": "Купчино",
+      "openingDate": "1972-12-25"
+    },
+    {
+      "stationName": "Беговая",
+      "openingDate": "2018-05-26"
+    },
+    {
+      "stationName": "Новокрестовская",
+      "openingDate": "2018-05-26",
+      "also-link": "https://en.wikipedia.org/wiki/Krestovsky_Stadium"
+    },
+    {
+      "stationName": "Приморская",
+      "openingDate": "1979-09-28"
+    },
+    {
+      "stationName": "Василиостровская",
+      "openingDate": "1967-11-03"
+    },
+    {
+      "stationName": "Гостиный двор",
+      "openingDate": "1967-11-03"
+    },
+    {
+      "stationName": "Маяковская",
+      "openingDate": "1967-11-03",
+      "also-link": "https://en.wikipedia.org/wiki/Vladimir_Mayakovsky"
+    },
+    {
+      "stationName": "Площадь Александра Невского-1",
+      "openingDate": "1967-11-03"
+    },
+    {
+      "stationName": "Елизаровская",
+      "openingDate": "1970-12-21"
+    },
+    {
+      "stationName": "Ломоносовская",
+      "openingDate": "1970-12-21"
+    },
+    {
+      "stationName": "Пролетарская",
+      "openingDate": "1981-07-10"
+    },
+    {
+      "stationName": "Обухово",
+      "openingDate": "1981-07-10"
+    },
+    {
+      "stationName": "Рыбацкое",
+      "openingDate": "1984-12-28"
+    },
+    {
+      "stationName": "Спасская",
+      "openingDate": "2009-03-07"
+    },
+    {
+      "stationName": "Достоевская",
+      "openingDate": "1991-12-30"
+    },
+    {
+      "stationName": "Лиговский проспект",
+      "openingDate": "1991-12-30"
+    },
+    {
+      "stationName": "Площадь Александра Невского-2",
+      "openingDate": "1985-12-30"
+    },
+    {
+      "stationName": "Новочеркасская",
+      "openingDate": "1985-12-30"
+    },
+    {
+      "stationName": "Ладожская",
+      "openingDate": "1985-12-30",
+      "also-link": "https://en.wikipedia.org/wiki/Ladozhsky_railway_station"
+    },
+    {
+      "stationName": "Проспект Большевиков",
+      "openingDate": "1985-12-30"
+    },
+    {
+      "stationName": "Улица Дыбенко",
+      "openingDate": "1987-10-01"
+    },
+    {
+      "stationName": "Комендантский проспект",
+      "openingDate": "2005-04-02"
+    },
+    {
+      "stationName": "Старая Деревня",
+      "openingDate": "1999-01-14"
+    },
+    {
+      "stationName": "Старая Деревня",
+      "openingDate": "1999-01-14"
+    },
+    {
+      "stationName": "Крестовский остров",
+      "openingDate": "1999-09-03",
+      "also-link": "https://en.wikipedia.org/wiki/Krestovsky_Island"
+    },
+    {
+      "stationName": "Чкаловская",
+      "openingDate": "1997-09-15"
+    },
+    {
+      "stationName": "Спортивная",
+      "openingDate": "1997-09-15"
+    },
+    {
+      "stationName": "Адмиралтейская",
+      "openingDate": "2011-12-28"
+    },
+    {
+      "stationName": "Садовая",
+      "openingDate": "1991-12-30"
+    },
+    {
+      "stationName": "Звенигородская",
+      "openingDate": "2008-12-20",
+      "also-link": "https://en.wikipedia.org/wiki/Zvenigorod"
+    },
+    {
+      "stationName": "Обводный канал",
+      "openingDate": "2010-12-30"
+    },
+    {
+      "stationName": "Волковская",
+      "openingDate": "2008-12-20"
+    },
+    {
+      "stationName": "Бухарестская",
+      "openingDate": "2012-12-28"
+    },
+    {
+      "stationName": "Международная",
+      "openingDate": "2012-12-28"
+    },
+    {
+      "stationName": "Проспект Славы",
+      "openingDate": "2019-10-03"
+    },
+    {
+      "stationName": "Дунайская",
+      "openingDate": "2019-10-03"
+    },
+    {
+      "stationName": "Шушары",
+      "openingDate": "2019-10-03"
+    }
+  ]
+}
